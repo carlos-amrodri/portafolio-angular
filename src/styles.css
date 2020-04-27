@@ -219,3 +219,9 @@
     -webkit-animation-name: bounceInLeft;
     animation-name: bounceInLeft;
   }
+
+  /* SVG Animation */
+
+svg rect{
+  fill: black;
+}
